@@ -13,7 +13,7 @@ public class Container {
     private boolean available;
 
     public Container() {
-        available = true;
+        available = false;
     }
 
     public Container(boolean available) {
